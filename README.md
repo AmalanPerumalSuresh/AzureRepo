@@ -1,4 +1,1 @@
-# AzureRepo
-I am from main branch
-I am from Appu Branch
-New update 
+This is AmalanBranch new branch created on 31st March
